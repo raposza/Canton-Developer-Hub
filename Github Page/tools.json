@@ -1167,9 +1167,9 @@
         "url": "https://github.com/raposza/tools/releases"
       }
     ],
-    "daml_sdk_version": "3.6.0",
+    "daml_sdk_version": "3.6.3",
     "maintained_by": "Raposza",
     "dev_fund": false,
-    "last_updated": "2026-10-14"
+    "last_updated": "2026-10-31"
   }
 ]
